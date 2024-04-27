@@ -22,3 +22,7 @@ variable "environment" {
 variable "zone_name" {
   default = "rajesh76.online"
 }
+
+variable "app_version" {
+  
+}
